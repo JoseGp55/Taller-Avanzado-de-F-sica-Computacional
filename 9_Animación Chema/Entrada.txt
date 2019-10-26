@@ -1,0 +1,6 @@
+Pasos: 1000
+Numero de pelotas: 1000
+Camara: 20, 10, -15
+Radio de esfera: 5
+Posicion fuente: -50, 0, 0
+Direccion: 0, 0
